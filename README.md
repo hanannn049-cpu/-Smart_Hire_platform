@@ -16,6 +16,7 @@ based on skills matching.
 - jQuery
 - AJAX
 - JavaScript
+- PHP
 
 ## Features
 ### Job Seeker
