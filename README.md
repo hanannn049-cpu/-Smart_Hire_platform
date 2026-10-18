@@ -1,4 +1,4 @@
-##Project-SmartHire
+## Project-SmartHire
 
 SmartHire is an intelligent web application that connects job seekers with employers
 based on skills matching.
